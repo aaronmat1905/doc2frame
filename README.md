@@ -1,3 +1,5 @@
+**Doc2Frame**
+
 Doc2Frame is a text editing platform that integrates text processing and analysis features for NLP. This project is segmented into multiple phases, with the first phase already completed and the second phase currently under construction. Initially conceived as an end-of-semester mini project for a Python course at university.
 
 The Work done in the Phases are listed as below:
